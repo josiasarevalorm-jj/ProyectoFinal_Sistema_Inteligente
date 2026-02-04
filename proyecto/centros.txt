@@ -1,0 +1,5 @@
+Pichincha;Quito;Sierra
+Guayas;Guayaquil;Costa
+Azuay;Cuenca;Sierra
+Tungurahua;Ambato;Sierra
+El Oro;Machala;Costa
